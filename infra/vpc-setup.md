@@ -1,5 +1,5 @@
 aws ec2 create-vpc --cidr-block 10.0.0.0/16
-"VpcId": "08845d77d95306902vpc-",
+"VpcId": "vpc-0e4ee3f37857b91a3",
 
 aws sts get-caller-identity
 
